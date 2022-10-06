@@ -1,6 +1,8 @@
 # packages to import
 import streamlit 
 
+#Adding the title 
+streamlit.title('My Mom\'s Healthy New Diner')
 
 # Build the menu items
 streamlit.header('Breakfast Favorites')
